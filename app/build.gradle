@@ -26,7 +26,7 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass = 'com.juliandbs.gradle_junit_nested_test_example.App'
+    mainClass = 'com.juliandbs.gradle_junit_5_nested_test_example.App'
 }
 
 tasks.named('test') {
